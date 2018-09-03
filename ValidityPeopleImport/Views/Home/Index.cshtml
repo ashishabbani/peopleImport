@@ -1,0 +1,35 @@
+﻿@{
+    ViewBag.Title = "People Import";
+}
+
+<script>
+    $(function () {
+        $('#duplicatetable').html("@Html.Raw(ViewBag.DuplicateTable)");
+        $('#nonDuplicatetable').html("@Html.Raw(ViewBag.NonduplicateTable)");
+    });
+</script>
+
+<div class="jumbotron">
+    <h1>People Import</h1>
+    <p class="lead">This web app will find all the duplicates and non duplicated in uploaded csv.</p>
+    @using (Html.BeginForm("UploadFile", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+
+    <div>
+        @Html.TextBox("uploadFile", "", new { type = "file" }) <br />
+
+        <input type="submit" value="Upload" />
+
+        @ViewBag.Message
+
+
+        <div class="table" id="duplicatetable"></div>
+        <div class="table" id="nonDuplicatetable"></div>
+
+
+    </div>
+
+
+    }
+</div>
+
