@@ -1,0 +1,11 @@
+c:\users\ashish jain\source\repos\ValidityPeopleImport\Validity.PeopleImport.Processes\bin\Debug\Validity.PeopleImport.Processes.dll
+c:\users\ashish jain\source\repos\ValidityPeopleImport\Validity.PeopleImport.Processes\bin\Debug\Validity.PeopleImport.Processes.pdb
+c:\users\ashish jain\source\repos\ValidityPeopleImport\Validity.PeopleImport.Processes\obj\Debug\Validity.PeopleImport.Processes.csprojAssemblyReference.cache
+c:\users\ashish jain\source\repos\ValidityPeopleImport\Validity.PeopleImport.Processes\obj\Debug\Validity.PeopleImport.Processes.csproj.CoreCompileInputs.cache
+c:\users\ashish jain\source\repos\ValidityPeopleImport\Validity.PeopleImport.Processes\obj\Debug\Validity.PeopleImport.Processes.dll
+c:\users\ashish jain\source\repos\ValidityPeopleImport\Validity.PeopleImport.Processes\obj\Debug\Validity.PeopleImport.Processes.pdb
+c:\users\ashish jain\source\repos\ValidityPeopleImport\Validity.PeopleImport.Processes\bin\Debug\Newtonsoft.Json.dll
+c:\users\ashish jain\source\repos\ValidityPeopleImport\Validity.PeopleImport.Processes\bin\Debug\Newtonsoft.Json.xml
+c:\users\ashish jain\source\repos\ValidityPeopleImport\Validity.PeopleImport.Processes\obj\Debug\Validity.PeopleImport.Processes.csproj.CopyComplete
+c:\users\ashish jain\source\repos\ValidityPeopleImport\Validity.PeopleImport.Processes\bin\Debug\Validity.PeopleImport.Model.dll
+c:\users\ashish jain\source\repos\ValidityPeopleImport\Validity.PeopleImport.Processes\bin\Debug\Validity.PeopleImport.Model.pdb
