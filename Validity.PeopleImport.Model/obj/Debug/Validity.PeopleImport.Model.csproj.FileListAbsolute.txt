@@ -1,0 +1,6 @@
+c:\users\ashish jain\source\repos\ValidityPeopleImport\Validity.PeopleImport.Model\bin\Debug\Validity.PeopleImport.Model.dll
+c:\users\ashish jain\source\repos\ValidityPeopleImport\Validity.PeopleImport.Model\bin\Debug\Validity.PeopleImport.Model.pdb
+c:\users\ashish jain\source\repos\ValidityPeopleImport\Validity.PeopleImport.Model\obj\Debug\Validity.PeopleImport.Model.csprojAssemblyReference.cache
+c:\users\ashish jain\source\repos\ValidityPeopleImport\Validity.PeopleImport.Model\obj\Debug\Validity.PeopleImport.Model.csproj.CoreCompileInputs.cache
+c:\users\ashish jain\source\repos\ValidityPeopleImport\Validity.PeopleImport.Model\obj\Debug\Validity.PeopleImport.Model.dll
+c:\users\ashish jain\source\repos\ValidityPeopleImport\Validity.PeopleImport.Model\obj\Debug\Validity.PeopleImport.Model.pdb
