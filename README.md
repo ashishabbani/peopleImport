@@ -1,6 +1,6 @@
 # peopleImport
 
-Developed the MVC app which take csv file a input and  find out all the possible duplicates.
+Developed the MVC app which take csv file an input and  find out all the possible duplicates.
 
 Pre-Req:
 1. Visual Studio 2017
